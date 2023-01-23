@@ -1,0 +1,193 @@
+MD-1: Biochemistry
+Chap. 31 Porphyrins and Bile Pigments
+biochem_chap31
+<cb>
+<q>In the porphyrin molecule</q>
+<ans>^Rings are labelled I, II, III, and IV^</ans>
+<ans>^Substituent positions are labeled 1 through 8^</ans>
+<ans>^The four methyne bridges (=HC-) are labeled alpha, beta, gamma, and delta^</ans>
+<ans>The eight methyne bridges (-HC-) are labeled alpha-1, alpha-2, beta-1, beta-2, gamma-1, gamma-2, delta-1, and delta-2</ans>
+</cb>
+<cb>
+<q>Porphyrins can form complexes with metal ions that form coordinate bonds to the nitrogen atom of each of the four pyrrole rings. Examples include</q>
+<ans>^iron porphyrins such as heme^</ans>
+<ans>copper-containing porphyrin chlorophyll</ans>
+<ans>^magnesium-containing porphyrin chlorophyll^</ans>
+</cb>
+<cb>
+<q>Indicate the heme protein which are correctly associated with its function:</q>
+<ans>^Hemoglobin : Transport of oxygen in blood^</ans>
+<ans>^Myoglobin : Storage of oxygen in muscle^</ans>
+<ans>^Cytochrome c : Involvement in the electron transport chain^</ans>
+<ans>^Cytohrome P450 : Hydroxylation of xenobiotics^</ans>
+<ans>^Catalase : Degradation of hydrogen peroxide^</ans>
+<ans>^Tryptophan pyrrolase : Oxidation of tryptophan^</ans>
+</cb>
+<rb>
+<q>The regulatory enzyme of heme biosynthesis is:</q>
+<ans>^ALAS1^</ans>
+<ans>ALAS2</ans>
+<ans>ALA dehydratase</ans>
+<ans>Uroporphyrinogen I synthase</ans>
+<ans>Uroporphyrinogen decarboxylase</ans>
+<ans>Coproporphyrinogen oxidase</ans>
+<ans>Ferrochelatase</ans>
+<ans>Succinyl-CoA synthetase</ans>
+</rb>
+<rb>
+<q>Select the true statement:</q>
+<ans>The heme of hemoproteins such as hemoglobin and the cytochromes is a copper-containing porphyrin consisting of four pyrrole rings joined by methyne bridges</ans>
+<ans>The heme of hemoproteins such as hemoglobin and the cytochromes is a iron-containing porphyrin consisting of four pyrrole rings joined by cysteine bridges</ans>
+<ans>The heme of hemoproteins such as hemoglobin and the cytochromes is a iron-containing porphyrin consisting of eight pyrrole rings joined by methyne bridges</ans>
+<ans>The heme of hemoproteins such as hemoglobin and the cytochromes is a copper-containing porphyrin consisting of four pyrrole rings joined by sulphur bridges</ans>
+<ans>The heme of hemoproteins such as hemoglobin and the cytochromes is a iron-containing porphyrin consisting of four pyrrole rings joined by sulphur bridges</ans>
+<ans>^The heme of hemoproteins such as hemoglobin and the cytochromes is a iron-containing porphyrin consisting of four pyrrole rings joined by methyne bridges^</ans>
+</rb>
+<rb>
+<q>Select the true statement:</q>
+<ans>The four methyl, vinyl, and propionyl substituents on the four pyrrole rings of heme are arranged in a specific sequence. The metal ion (Fe2+ in hemoglobin, Mg2+ in chlorphyll) is linked to the four nitrogen atoms of the pyrrole rings</ans>
+<ans>The four methyl, vinyl, and propionyl substituents on the four pyrrole rings of heme are arranged in a specific sequence. The metal ion (Fe2+ in hemoglobin, Mg2+ in chlorphyll) is linked to the two nitrogen atoms of the pyrrole rings</ans>
+<ans>^The eight methyl, vinyl, and propionyl substituents on the four pyrrole rings of heme are arranged in a specific sequence. The metal ion (Fe2+ in hemoglobin, Mg2+ in chlorphyll) is linked to the four nitrogen atoms of the pyrrole rings^</ans>
+<ans>The eight methyl, vinyl, and propionyl substituents on the four pyrrole rings of heme are arranged in a specific sequence. The metal ion (Fe2+ in hemoglobin, Mg2+ in chlorphyll) is linked to the two nitrogen atoms of the pyrrole rings</ans>
+</rb>
+<rb>
+<q>Select the true statement:</q>
+<ans>Biosynthesis of the heme ring involves seven enzyme-catalyzed reactions, some of which occur in mitochondria, others in the cytosol</ans>
+<ans>^Biosynthesis of the heme ring involves eight enzyme-catalyzed reactions, some of which occur in mitochondria, others in the cytosol^</ans>
+<ans>Biosynthesis of the heme ring involves seven enzyme-catalyzed reactions, all of which occur in cytosol</ans>
+<ans>Biosynthesis of the heme ring involves eight enzyme-catalyzed reactions, all of which occur in mitochondria</ans>
+<ans>Biosynthesis of the heme ring involves ten enzyme-catalyzed reactions, all of which occur in cytosol</ans>
+</rb>
+<rb>
+<q>Jaundice is a common clinical condition.  It is a consequence of</q>
+<ans>reduced level of plasma bilirubin due to either underproduction of bilirubin or to failure of its excretion</ans>
+<ans>reduced level of plasma bilirubin due to either underproduction of bilirubin or to its excessive excretion</ans>
+<ans>increased level of plasma bilirubin due to either overproduction of bilirubin or to its excessive excretion</ans>
+<ans>^increasd level of plasma bilirubin due to either overproduction of bilirubin or to failure of its excretion^</ans>
+</rb>
+<cb>
+<q>Jaundice occurs in numerous diseases, including</q>
+<ans>^hemolytic anemias^</ans>
+<ans>^viral hepatitis^</ans>
+<ans>^cancer of the pancreas^</ans>
+</cb>
+<rb>
+<q>Select the true statement:</q>
+<ans>^Synthesis of heme commences with the condensation of succinyl-CoA and glycine to form ALA. This reaction is catalyzed by ALAS1, the regulatory enzyme of heme biosynthesis^</ans>
+<ans>Synthesis of heme commences with the condensation of succinyl-CoA and lycine to form ALA1. This reaction is catalyzed by ALAS1, the regulatory enzyme of heme biosynthesis</ans>
+<ans>Synthesis of heme commences with the condensation of succinyl-CoA and lycine to form ALA2. This reaction is catalyzed by ALAS2, the regulatory enzyme of heme biosynthesis</ans>
+<ans>Synthesis of heme commences with the condensation of succinyl-CoA and glycine to form ALA. This reaction is catalyzed by ALAS2, the regulatory enzyme of heme biosynthesis</ans>
+</rb>
+<cb>
+<q>Select one or more statements which is/are true:</q>
+<ans>^Synthesis of ALAS1 increases in response to a low level of available heme^</ans>
+<ans>^Certain drugs (eg. phenobarbital) indirectly trigger enhanced synthesis of ALAS1 by promoting synthesis of the heme protein cytochrome P450^</ans>
+<ans>^Cytochrome P450 depletes the heme pool^</ans>
+<ans>^ALAS2 is not regulated by heme levels^</ans>
+<ans>ALAS2 is regulated by drugs that promote synthesis of cytochrome P450</ans>
+</cb>
+<cb>
+<q>Select one or more statements about porphyrias which is/are true:</q>
+<ans>Genetic abnormalities of five of the eight enzymes of heme biosynthesis result in inherited porphyrias</ans>
+<ans>^Genetic abnormalities of seven of the eight enzymes of heme biosynthesis result in inherited porphyrias^</ans>
+<ans>^Erythrocytes are major sites of expression of the porphyrias^</ans>
+<ans>^The liver is a major site of expression of the porphyrias^</ans>
+<ans>The kidney is a major site of expression of the porphyrias</ans>
+<ans>^Photosensitiviy and neurologic problems are common complaints^</ans>
+<ans>Photosensitiviy and gut problems are common complaints</ans>
+<ans>^Intake of certian toxins (eg. lead) can cause acquired porphyrias^</ans>
+<ans>Intake of alcohol and smoking can cause acquired porphyrias</ans>
+<ans>^Increased amounts of of porphyrins or their precursors can be detected in blood and urine, facilitating diagnosis^</ans>
+</cb>
+<rb>
+<q>Select the true statement about the catabolism of the heme ring:</q>
+<ans>^Catabolism of the heme ring, initiated by the mitochondrial enzyme heme oxygenase, produces the linear tetrapyrrole, biliverdin. Subsequent reduction of biliverdin in the cytosol forms bilirubin^</ans>
+<ans>Catabolism of the heme ring, initiated by the enzyme heme oxygenase, produces the bent tetrapyrrole, biliverdin. Subsequent reduction of biliverdin in the mitochondria forms bilirubin</ans>
+<ans>Catabolism of the heme ring, initiated by the enzyme heme oxygenase in the cytosol, produces the bent tetrapyrrole, biliverdin. Subsequent reduction of biliverdin in the mitochondria forms bilirubin</ans>
+<ans>Catabolism of the heme ring, initiated by the enzyme heme oxygenase in the cytosol, produces the linear tetrapyrrole, biliverdin. Subsequent reduction of biliverdin in the mitochondria forms bilirubin</ans>
+<ans>^Catabolism of the heme ring, initiated by the mitochondrial enzyme ferrochelatase, produces the linear tetrapyrrole, biliverdin. Subsequent reduction of biliverdin in the cytosol forms bilirubin^</ans>
+</rb>
+<rb>
+<q>Select the true statement about bilirubin transport and the release of iron in heme:</q>
+<ans>^Bilirubin binds to albumin for transport from peripheral tissues to the liver, where it is taken up by hepatocytes. The iron from heme is then released and re-utilized^</ans>
+<ans>Bilirubin binds to albumin for transport from peripheral tissues to the liver, where it is taken up by hepatocytes. The iron from heme is then disposed in bile</ans>
+<ans>Bilirubin binds to albumin for transport from peripheral tissues to the gut, where it is taken up by enterocytes. The iron from heme is then released and re-utilized</ans>
+<ans>Bilirubin binds to chylomicron for transport from peripheral tissues to the gut, where it is taken up by enterocytes. The iron from heme is then released and re-utilized</ans>
+</rb>
+<cb>
+<q>Select one or more correct statements about mutations in the bilirubin UDP-glucuronosyltransferase:</q>
+<ans>^Mutations in the bilirubin UDP-glucuronosyltransferase reduce or eliminate its activity^</ans>
+<ans>Clinical manifestations include jaundice and Dubin-Johnson syndrome</ans>
+<ans>Clinical manifestations include hemolytic anemias and toxic hyperbilirubinemia</ans>
+<ans>^Clinical manifestations include Gilbert syndrome and two types of Crigler-Najjar syndrome^</ans>
+</cb>
+<cb>
+<q>Following secretion of bilirubin from the bile into the gut,</q>
+<ans>bacterial enzymes, alpha-glucuronidases, convert bilirubin to urobilinogen and urobilin, which are excreted in the feces</ans>
+<ans>^bacterial enzymes, beta-glucuronidases, convert bilirubin to urobilinogen and urobilin, which are excreted in the feces^</ans>
+<ans>bacterial enzymes convert bilirubin to urobilinogen and urobilin, which are excreted in the feces and more in the urine</ans>
+<ans>^under abnormal conditions, urobilinogen may also be excreted in the urine^</ans>
+<ans>Most of the green urobilinogens formed in the colon are reduced there to colorless urobilins</ans>
+<ans>^Most of the colorless uribilinogens formed in the colon are oxidized there to colored urobilins^</ans>
+</cb>
+<rb>
+<q>Which statement is false?</q>
+<ans>Jaundice results from an elevated level of plasma bilirubin</ans>
+<ans>^Jaundice results from a reduced level of plasma bilirubin^</ans>
+</rb>
+<rb>
+<q>Jaundice can be distinuished as prehepatic, hepatic, and posthepatic. Select the correct association:</q>
+<ans>^prehepatic : hemolytic anemias^</ans>
+<ans>hepatic: obstruction of common bile duct</ans>
+<ans>posthepatic: hepatitis</ans>
+</rb>
+<cb>
+<q>Measurements of the following help distinguish between the causes of jaundice:</q>
+<ans>^Plasma total bilirbin^</ans>
+<ans>^Plasma nonconjugated bilirubin^</ans>
+<ans>^Urinary urobilinogen^</ans>
+<ans>^Urinary bilirubin^</ans>
+<ans>^Activity of certain serum enzymes^</ans>
+<ans>^Analysis of stool samples^</ans>
+</cb>
+<rb>
+<q>Colorimetric measurement of bilirubin employs the formed when bilirubin employs the color formed when bilirubin reacts with diazotized sulfanic acid.</q>
+<ans>^True^</ans>
+<ans>False</ans>
+</rb>
+<cb>
+<q>Select one or more statements which are true about measurements of "direct", "indirect", and "total" bilirubin:</q>
+<ans>Assays conducted in the presence of added methanol measure "direct" bilirubin</ans>
+<ans>^Assays conducted in the absence of added methanol measure "direct" bilirubin^</ans>
+<ans>^Assays conducted in the presence of added methanol measure "total" bilirubin^</ans>
+<ans>Assays conducted in the absence of added methanol measure "total" bilirubin</ans>
+<ans>^"Indirect" bilirubin is unconjugated bilirubin^</ans>
+<ans>Indirect bilirubin is conjugated bilirubin</ans>
+<ans>^Indriect bilirubin = Total bilirubin - Direct bilirubin^</ans>
+</cb>
+<rb>
+<q>The water solubility of bilirubin is increased by the addition of two moles of highly polar glucuronosyl moiety per mole of bilirubin.</q>
+<ans>^True^</ans>
+<ans>False</ans>
+</rb>
+<rb>
+<q>Attachment of the glucuronysyl moieties is catalyzed by bilirubin UDP-glucuronosyltransferase.</q>
+<ans>^True^</ans>
+<ans>False</ans>
+</rb>
+<rb>
+<q>Increasing the polarity of certain drugs and their metabolites facilitate their excretion</q>
+<ans>^True^</ans>
+<ans>False</ans>
+</rb>
+<cb>
+<q>In the biosynthesis of heme from Succinyl-CoA and Glycine, the sequence of enzymes involved is:</q>
+<ans>^1st and 2nd enzymes: ALA synthase and ALA dehydratase, respectively^</ans>
+<ans>1st and 2nd enzymes: ALA synthase and ALA decarboxylase, respectively</ans>
+<ans>3rd and 4th enzymes: Uroporphyrinogen I synthase and Uroporphyrinogen II synthase, respectively</ans>
+<ans>^3rd and 4th enzymes: Uroporphyrinogen I synthase and Uroporphyrinogen III synthase, respectively^</ans>
+<ans>^5th and 6th enzymes: Uroporphyrinogen decarboxylase and Coproporphyrinogen oxidase, respectively^</ans>
+<ans>5th and 6th enzymes: Uroporphyrinogen IV synthase and Coproporphyrinogen decarboxylase, respectively</ans>
+<ans>7th and 8th enzymes: Protoporphyrinogen transferase and Ferrochelatase, respectively</ans>
+<ans>^7th and 8th enzymes: Protoporphyrinogen oxidase and Ferrochelatase, respectively^</ans>
+</cb>
